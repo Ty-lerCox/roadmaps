@@ -1,0 +1,52 @@
+user-experience-design-roadmap-material-design
+├── 1. UX Design Fundamentals
+│ ├── 1.1. Design Thinking
+│ ├── 1.2. User-Centered Design
+│ └── 1.3. Design Principles
+├── 2. Material Design
+│ ├── 2.1. Material Design Principles
+│ │ ├── 2.1.1. Material as a Metaphor
+│ │ ├── 2.1.2. Bold, Graphic & Intentional
+│ │ └── 2.1.3. Motion Provides Meaning
+│ ├── 2.2. Material Design Components
+│ ├── 2.3. Material Design Patterns
+│ ├── 2.4. Material Design Typography
+│ ├── 2.5. Material Design Icons
+│ └── 2.6. Material Design Color System
+├── 3. User Research
+│ ├── 3.1. User Interviews
+│ ├── 3.2. Surveys & Questionnaires
+│ ├── 3.3. Personas & Empathy Maps
+│ └── 3.4. Usability Testing
+├── 4. Information Architecture
+│ ├── 4.1. Sitemaps
+│ ├── 4.2. User Flows
+│ └── 4.3. Card Sorting
+├── 5. Wireframing & Prototyping
+│ ├── 5.1. Wireframing
+│ ├── 5.2. Low-Fidelity Prototypes
+│ ├── 5.3. High-Fidelity Prototypes
+│ └── 5.4. Prototyping Tools (Figma, Sketch, Adobe XD)
+├── 6. Interaction Design
+│ ├── 6.1. UI Animation
+│ ├── 6.2. Microinteractions
+│ └── 6.3. Responsive Design
+├── 7. User Interface Design
+│ ├── 7.1. UI Design Principles
+│ ├── 7.2. Visual Hierarchy
+│ ├── 7.3. Grid Systems
+│ └── 7.4. Design Systems
+├── 8. Usability & Accessibility
+│ ├── 8.1. Usability Heuristics
+│ ├── 8.2. Accessibility Guidelines
+│ ├── 8.3. ARIA (Accessible Rich Internet Applications)
+│ └── 8.4. Inclusive Design
+├── 9. Design Collaboration & Handoff
+│ ├── 9.1. Design Critique
+│ ├── 9.2. Collaborative Design Tools (Figma, Sketch, Adobe XD)
+│ └── 9.3. Handoff to Developers
+└── 10. Continuous Improvement
+├── 10.1. A/B Testing
+├── 10.2. User Feedback
+├── 10.3. Iterative Design Process
+└── 10.4. UX Metrics & Analytics
