@@ -1,0 +1,44 @@
+reactive-programming-roadmap-ngrx
+├── 1. Fundamentals
+│ ├── 1.1. JavaScript
+│ │ ├── 1.1.1. ES6/ES2015
+│ │ └── 1.1.2. Asynchronous Programming
+│ ├── 1.2. TypeScript
+│ └── 1.3. Angular
+│ ├── 1.3.1. Components
+│ ├── 1.3.2. Services
+│ ├── 1.3.3. Directives
+│ └── 1.3.4. Routing
+├── 2. Reactive Programming Concepts
+│ ├── 2.1. Observables & Observers
+│ ├── 2.2. Subscriptions
+│ ├── 2.3. Operators
+│ └── 2.4. Subjects
+├── 3. RxJS
+│ ├── 3.1. Creating Observables
+│ ├── 3.2. Transforming Observables
+│ ├── 3.3. Combining Observables
+│ ├── 3.4. Filtering Observables
+│ └── 3.5. Error Handling
+├── 4. NgRx
+│ ├── 4.1. Store
+│ ├── 4.2. Actions
+│ ├── 4.3. Reducers
+│ ├── 4.4. Effects
+│ ├── 4.5. Selectors
+│ └── 4.6. Entity
+├── 5. Advanced NgRx Patterns
+│ ├── 5.1. Facades
+│ ├── 5.2. Router Store
+│ ├── 5.3. Schematics
+│ └── 5.4. Testing NgRx
+├── 6. Performance & Best Practices
+│ ├── 6.1. Lazy Loading of State
+│ ├── 6.2. OnPush Change Detection Strategy
+│ ├── 6.3. Immutable Data Structures
+│ └── 6.4. Memoization & Reselect
+└── 7. Learning Resources
+├── 7.1. Books & Blogs
+├── 7.2. Online Courses & Tutorials
+├── 7.3. Conferences & Meetups
+└── 7.4. GitHub Repositories & Projects
