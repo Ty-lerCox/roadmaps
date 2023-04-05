@@ -1,0 +1,49 @@
+technical-writing-documentation-roadmap
+├── 1. Fundamentals
+│ ├── 1.1. English Language Proficiency
+│ ├── 1.2. Grammar & Punctuation
+│ ├── 1.3. Clear & Concise Writing
+│ └── 1.4. Active Voice
+├── 2. Audience Analysis
+│ ├── 2.1. Understanding the Target Audience
+│ ├── 2.2. Reader Personas
+│ └── 2.3. Writing for Different Skill Levels
+├── 3. Documentation Types
+│ ├── 3.1. User Guides & Manuals
+│ ├── 3.2. Tutorials & How-to Guides
+│ ├── 3.3. API Documentation
+│ ├── 3.4. Release Notes & Changelogs
+│ └── 3.5. FAQs & Troubleshooting Guides
+├── 4. Structuring & Organizing Content
+│ ├── 4.1. Information Architecture
+│ ├── 4.2. Headings & Subheadings
+│ ├── 4.3. Consistent Formatting
+│ └── 4.4. Tables of Contents & Indexes
+├── 5. Writing Techniques
+│ ├── 5.1. Plain Language
+│ ├── 5.2. Use Cases & Scenarios
+│ ├── 5.3. Task-oriented Writing
+│ └── 5.4. Step-by-step Instructions
+├── 6. Visual Communication
+│ ├── 6.1. Screenshots & Screen Recordings
+│ ├── 6.2. Diagrams & Flowcharts
+│ ├── 6.3. Infographics
+│ └── 6.4. Tables & Lists
+├── 7. Writing Tools & Platforms
+│ ├── 7.1. Word Processors (Microsoft Word, Google Docs)
+│ ├── 7.2. Markdown & Lightweight Markup Languages
+│ ├── 7.3. Collaborative Writing Tools (Confluence, Notion)
+│ └── 7.4. Documentation Generators (Read the Docs, Jekyll, Sphinx)
+├── 8. Style Guides & Best Practices
+│ ├── 8.1. Company-specific Style Guides
+│ ├── 8.2. Industry Standards (Microsoft Writing Style Guide, Google Developer Documentation Style Guide)
+│ └── 8.3. Consistency & Adherence to Style Guides
+├── 9. Review & Editing
+│ ├── 9.1. Peer Review
+│ ├── 9.2. Editing & Proofreading
+│ └── 9.3. Incorporating Feedback
+└── 10. Continuous Improvement
+├── 10.1. Tracking Documentation Usage
+├── 10.2. Gathering User Feedback
+├── 10.3. Updating & Maintaining Documentation
+└── 10.4. Collaborating with Subject Matter Experts (SMEs)
