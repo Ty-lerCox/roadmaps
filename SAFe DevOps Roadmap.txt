@@ -1,0 +1,49 @@
+SAFe-devops-roadmap
+├── 1. SAFe Principles
+│ ├── 1.1. Agile Manifesto
+│ ├── 1.2. Lean Product Development
+│ └── 1.3. Systems Thinking
+├── 2. SAFe DevOps
+│ ├── 2.1. CALMR
+│ │ ├── 2.1.1. Culture
+│ │ ├── 2.1.2. Automation
+│ │ ├── 2.1.3. Lean
+│ │ ├── 2.1.4. Measurement
+│ │ └── 2.1.5. Recovery
+│ └── 2.2. Continuous Delivery Pipeline
+│ ├── 2.2.1. Continuous Exploration
+│ ├── 2.2.2. Continuous Integration
+│ ├── 2.2.3. Continuous Deployment
+│ └── 2.2.4. Release on Demand
+├── 3. Agile & DevOps Practices
+│ ├── 3.1. Agile Practices
+│ │ ├── 3.1.1. Scrum
+│ │ ├── 3.1.2. Kanban
+│ │ └── 3.1.3. XP (Extreme Programming)
+│ └── 3.2. DevOps Practices
+│ ├── 3.2.1. Infrastructure as Code
+│ ├── 3.2.2. Continuous Integration & Deployment (CI/CD)
+│ ├── 3.2.3. Monitoring & Logging
+│ └── 3.2.4. Security & Compliance
+├── 4. Collaboration & Alignment
+│ ├── 4.1. ART (Agile Release Train)
+│ ├── 4.2. Scaled Agile Events
+│ │ ├── 4.2.1. PI (Program Increment) Planning
+│ │ ├── 4.2.2. Inspect & Adapt (I&A) Workshop
+│ │ └── 4.2.3. System Demo
+│ └── 4.3. Communities of Practice
+├── 5. Tools & Technologies
+│ ├── 5.1. Version Control (Git)
+│ ├── 5.2. CI/CD Tools (Jenkins, GitLab CI/CD, Azure DevOps)
+│ ├── 5.3. Containers & Orchestration (Docker, Kubernetes)
+│ ├── 5.4. Infrastructure as Code (Terraform, Ansible)
+│ ├── 5.5. Monitoring & Logging (Prometheus, ELK Stack)
+│ └── 5.6. Cloud Platforms (AWS, Azure, GCP)
+└── 6. Learning & Growth
+├── 6.1. Certifications
+│ ├── 6.1.1. SAFe DevOps Practitioner (SDP)
+│ └── 6.1.2. SAFe Agilest (SA)
+└── 6.2. Continuous Learning
+├── 6.2.1. Books & Blogs
+├── 6.2.2. Conferences & Webinars
+└── 6.2.3. Online Courses & Workshops

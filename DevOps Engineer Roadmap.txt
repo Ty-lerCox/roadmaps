@@ -1,0 +1,70 @@
+devops-engineer-roadmap
+├── 1. Fundamentals
+│ ├── 1.1. Linux
+│ │ ├── 1.1.1. Command Line Basics
+│ │ ├── 1.1.2. File Management
+│ │ ├── 1.1.3. Text Editing
+│ │ ├── 1.1.4. Process Management
+│ │ └── 1.1.5. Networking Basics
+│ ├── 1.2. Networking
+│ │ ├── 1.2.1. OSI Model
+│ │ ├── 1.2.2. IP Addressing
+│ │ ├── 1.2.3. Subnetting
+│ │ └── 1.2.4. Routing
+│ └── 1.3. Programming
+│ ├── 1.3.1. Python
+│ ├── 1.3.2. Bash
+│ └── 1.3.3. Version Control (Git)
+├── 2. Virtualization & Containers
+│ ├── 2.1. Virtualization
+│ │ ├── 2.1.1. Hypervisors
+│ │ └── 2.1.2. Virtual Machines
+│ └── 2.2. Containers
+│ ├── 2.2.1. Docker
+│ └── 2.2.2. Kubernetes
+├── 3. Infrastructure as Code
+│ ├── 3.1. Configuration Management
+│ │ ├── 3.1.1. Ansible
+│ │ ├── 3.1.2. Puppet
+│ │ └── 3.1.3. Chef
+│ └── 3.2. Provisioning
+│ ├── 3.2.1. Terraform
+│ └── 3.2.2. Packer
+├── 4. Continuous Integration & Deployment (CI/CD)
+│ ├── 4.1. Version Control
+│ │ └── 4.1.1. Git
+│ ├── 4.2. Build Tools
+│ │ ├── 4.2.1. Jenkins
+│ │ ├── 4.2.2. GitLab CI/CD
+│ │ └── 4.2.3. Travis CI
+│ └── 4.3. Deployment
+│ ├── 4.3.1. Ansible
+│ ├── 4.3.2. Kubernetes
+│ └── 4.3.3. Docker Swarm
+├── 5. Cloud Platforms
+│ ├── 5.1. Amazon Web Services (AWS)
+│ ├── 5.2. Microsoft Azure
+│ └── 5.3. Google Cloud Platform (GCP)
+├── 6. Monitoring & Logging
+│ ├── 6.1. Monitoring
+│ │ ├── 6.1.1. Prometheus
+│ │ ├── 6.1.2. Grafana
+│ │ └── 6.1.3. Zabbix
+│ └── 6.2. Logging
+│ ├── 6.2.1. Elasticsearch
+│ ├── 6.2.2. Logstash
+│ └── 6.2.3. Kibana
+└── 7. Security
+├── 7.7.1. Network Security
+│ ├── 7.1.1. Firewalls
+│ ├── 7.1.2. VPN
+│ └── 7.1.3. Intrusion Detection Systems (IDS)
+├── 7.2. Application Security
+│ ├── 7.2.1. OWASP Top Ten
+│ ├── 7.2.2. Secure Coding Practices
+│ └── 7.2.3. Penetration Testing
+└── 7.3. Compliance & Auditing
+├── 7.3.1. GDPR
+├── 7.3.2. HIPAA
+├── 7.3.3. PCI DSS
+└── 7.3.4. ISO/IEC 27001
