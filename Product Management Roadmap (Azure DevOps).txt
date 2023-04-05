@@ -1,0 +1,47 @@
+product-management-roadmap-azure-devops
+├── 1. Product Management Fundamentals
+│ ├── 1.1. Agile & Lean Principles
+│ ├── 1.2. Market Research & Analysis
+│ ├── 1.3. Product Vision & Strategy
+│ └── 1.4. Stakeholder Management
+├── 2. Azure DevOps
+│ ├── 2.1. Overview & Components
+│ │ ├── 2.1.1. Boards
+│ │ ├── 2.1.2. Repos
+│ │ ├── 2.1.3. Pipelines
+│ │ ├── 2.1.4. Test Plans
+│ │ └── 2.1.5. Artifacts
+│ ├── 2.2. Work Items & Backlogs
+│ ├── 2.3. Sprints & Iterations
+│ ├── 2.4. Querying & Reporting
+│ └── 2.5. Integrations & Extensions
+├── 3. Requirements Management
+│ ├── 3.1. User Stories & Acceptance Criteria
+│ ├── 3.2. Epics & Features
+│ ├── 3.3. Prioritization Techniques
+│ └── 3.4. Roadmaps & Release Plans
+├── 4. Agile Frameworks & Methodologies
+│ ├── 4.1. Scrum
+│ ├── 4.2. Kanban
+│ ├── 4.3. Scaled Agile Framework (SAFe)
+│ └── 4.4. DevOps & Continuous Delivery
+├── 5. Collaboration & Communication
+│ ├── 5.1. Team Collaboration
+│ ├── 5.2. Stakeholder Communication
+│ └── 5.3. Product Demos & Reviews
+├── 6. Metrics & Analytics
+│ ├── 6.1. Key Performance Indicators (KPIs)
+│ ├── 6.2. Agile Metrics
+│ │ ├── 6.2.1. Velocity
+│ │ ├── 6.2.2. Burndown Charts
+│ │ └── 6.2.3. Lead & Cycle Time
+│ └── 6.3. Customer Feedback & Analytics
+├── 7. Risk Management & Compliance
+│ ├── 7.1. Risk Identification & Assessment
+│ ├── 7.2. Risk Mitigation Strategies
+│ └── 7.3. Regulatory Compliance
+└── 8. Continuous Improvement
+├── 8.1. Retrospectives
+├── 8.2. Process Optimization
+├── 8.3. Innovation & Experimentation
+└── 8.4. Professional Development & Growth
