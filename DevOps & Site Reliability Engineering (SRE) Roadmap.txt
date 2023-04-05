@@ -1,0 +1,52 @@
+devops-sre-roadmap
+├── 1. Fundamentals
+│ ├── 1.1. Linux/Unix
+│ ├── 1.2. Networking
+│ ├── 1.3. Operating Systems
+│ └── 1.4. Databases
+├── 2. Programming Languages
+│ ├── 2.1. Python
+│ ├── 2.2. Go
+│ ├── 2.3. Ruby
+│ └── 2.4. Shell Scripting
+├── 3. Source Control
+│ └── 3.1. Git
+├── 4. Infrastructure as Code (IaC)
+│ ├── 4.1. Terraform
+│ ├── 4.2. Ansible
+│ ├── 4.3. Chef
+│ └── 4.4. Puppet
+├── 5. Continuous Integration & Deployment (CI/CD)
+│ ├── 5.1. Jenkins
+│ ├── 5.2. GitLab CI/CD
+│ ├── 5.3. Travis CI
+│ └── 5.4. CircleCI
+├── 6. Containerization & Orchestration
+│ ├── 6.1. Docker
+│ ├── 6.2. Kubernetes
+│ ├── 6.3. Helm
+│ └── 6.4. Amazon ECS
+├── 7. Monitoring & Observability
+│ ├── 7.1. Prometheus
+│ ├── 7.2. Grafana
+│ ├── 7.3. ELK Stack (Elasticsearch, Logstash, Kibana)
+│ └── 7.4. Jaeger & OpenTracing
+├── 8. Cloud Platforms
+│ ├── 8.1. Amazon Web Services (AWS)
+│ ├── 8.2. Microsoft Azure
+│ └── 8.3. Google Cloud Platform (GCP)
+├── 9. Security & Compliance
+│ ├── 9.1. Vulnerability Assessment
+│ ├── 9.2. Incident Response
+│ ├── 9.3. Security Policies
+│ └── 9.4. Compliance Standards
+├── 10. Site Reliability Engineering (SRE)
+│ ├── 10.1. Service Level Objectives (SLOs)
+│ ├── 10.2. Error Budgets
+│ ├── 10.3. Chaos Engineering
+│ └── 10.4. Performance Analysis & Tuning
+└── 11. Learning & Growth
+├── 11.1. Books & Blogs
+├── 11.2. Conferences & Webinars
+├── 11.3. Online Courses & Workshops
+└── 11.4. Certifications (AWS, Azure, GCP, Kubernetes, etc.)
