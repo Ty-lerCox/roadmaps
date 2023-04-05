@@ -1,0 +1,62 @@
+data-science-analytics-roadmap
+├── 1. Fundamentals
+│ ├── 1.1. Mathematics
+│ │ ├── 1.1.1. Linear Algebra
+│ │ ├── 1.1.2. Calculus
+│ │ ├── 1.1.3. Probability & Statistics
+│ │ └── 1.1.4. Discrete Mathematics
+│ ├── 1.2. Programming Languages
+│ │ ├── 1.2.1. Python
+│ │ └── 1.2.2. R
+│ └── 1.3. Databases
+│ ├── 1.3.1. SQL
+│ ├── 1.3.2. NoSQL
+│ └── 1.3.3. Time-Series Databases
+├── 2. Data Cleaning & Preprocessing
+│ ├── 2.1. Data Cleaning Techniques
+│ ├── 2.2. Feature Scaling
+│ ├── 2.3. Feature Engineering
+│ └── 2.4. Handling Missing Data
+├── 3. Data Visualization
+│ ├── 3.1. Matplotlib
+│ ├── 3.2. Seaborn
+│ ├── 3.3. ggplot2 (R)
+│ └── 3.4. Tableau
+├── 4. Data Analysis
+│ ├── 4.1. Exploratory Data Analysis (EDA)
+│ ├── 4.2. Descriptive & Inferential Statistics
+│ ├── 4.3. Hypothesis Testing
+│ └── 4.4. Time-Series Analysis
+├── 5. Machine Learning
+│ ├── 5.1. Supervised Learning
+│ ├── 5.2. Unsupervised Learning
+│ ├── 5.3. Reinforcement Learning
+│ └── 5.4. Evaluation Metrics & Model Selection
+├── 6. Deep Learning
+│ ├── 6.1. Neural Networks
+│ ├── 6.2. Convolutional Neural Networks (CNNs)
+│ ├── 6.3. Recurrent Neural Networks (RNNs)
+│ └── 6.4. Transfer Learning
+├── 7. Natural Language Processing (NLP)
+│ ├── 7.1. Text Preprocessing
+│ ├── 7.2. Sentiment Analysis
+│ ├── 7.3. Named Entity Recognition (NER)
+│ └── 7.4. Text Classification
+├── 8. Big Data & Distributed Computing
+│ ├── 8.1. Hadoop
+│ ├── 8.2. Apache Spark
+│ └── 8.3. Distributed Databases
+├── 9. Cloud Computing & Data Storage
+│ ├── 9.1. Amazon Web Services (AWS)
+│ ├── 9.2. Microsoft Azure
+│ └── 9.3. Google Cloud Platform (GCP)
+├── 10. Data Privacy & Ethics
+│ ├── 10.1. Data Privacy Regulations (GDPR, CCPA, etc.)
+│ ├── 10.2. Data Anonymization Techniques
+│ ├── 10.3. Bias & Fairness in Machine Learning
+│ └── 10.4. Ethical Considerations in Data Science
+├── 11. Learning & Growth
+├── 11.1. Books & Blogs
+├── 11.2. Conferences & Webinars
+├── 11.3. Online Courses & Workshops
+└── 11.4. Certifications (Data Science, Machine Learning, Big Data, etc.)
