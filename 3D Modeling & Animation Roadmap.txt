@@ -1,0 +1,51 @@
+3D-modeling-animation-roadmap
+├── 1. Fundamentals
+│ ├── 1.1. 3D Modeling Concepts
+│ ├── 1.2. 3D Animation Concepts
+│ ├── 1.3. Lighting & Rendering
+│ └── 1.4. Texturing & UV Mapping
+├── 2. 3D Modeling Techniques
+│ ├── 2.1. Polygonal Modeling
+│ ├── 2.2. Subdivision Surface Modeling
+│ ├── 2.3. Sculpting
+│ ├── 2.4. NURBS Modeling
+│ └── 2.5. Procedural Modeling
+├── 3. 3D Animation Techniques
+│ ├── 3.1. Keyframe Animation
+│ ├── 3.2. Rigging & Skinning
+│ ├── 3.3. Inverse Kinematics (IK)
+│ ├── 3.4. Motion Capture
+│ └── 3.5. Procedural Animation
+├── 4. Rendering & Materials
+│ ├── 4.1. Real-time Rendering
+│ ├── 4.2. Ray Tracing
+│ ├── 4.3. Physically Based Rendering (PBR)
+│ ├── 4.4. Shaders & Materials
+│ └── 4.5. Global Illumination
+├── 5. Visual Effects (VFX)
+│ ├── 5.1. Particle Systems
+│ ├── 5.2. Fluid Simulation
+│ ├── 5.3. Cloth Simulation
+│ ├── 5.4. Rigid Body Dynamics
+│ └── 5.5. Compositing & Post-Processing
+├── 6. Software & Tools
+│ ├── 6.1. 3D Modeling & Animation (Blender, Autodesk Maya, 3ds Max)
+│ ├── 6.2. Sculpting (ZBrush, Mudbox)
+│ ├── 6.3. Texturing (Substance Painter, Quixel Mixer)
+│ ├── 6.4. Real-time Engines (Unreal Engine, Unity)
+│ └── 6.5. Compositing (Nuke, Adobe After Effects)
+├── 7. 3D Printing & Prototyping
+│ ├── 7.1. 3D Print Preparation
+│ ├── 7.2. 3D Print Material Selection
+│ └── 7.3. Rapid Prototyping Techniques
+├── 8. Industry Specializations
+│ ├── 8.1. Game Development
+│ ├── 8.2. Film & Television
+│ ├── 8.3. Architectural Visualization
+│ ├── 8.4. Advertising & Marketing
+│ └── 8.5. Medical & Scientific Visualization
+└── 9. Career Development & Networking
+├── 9.1. Portfolio Building
+├── 9.2. Online Presence & Networking
+├── 9.3. Industry Conferences & Workshops
+└── 9.4. Continuing Education & Skill Advancement
