@@ -1,0 +1,48 @@
+third-party-logistics-roadmap-supply-chain-order-management
+├── 1. Supply Chain Fundamentals
+│ ├── 1.1. Supply Chain Management (SCM) Concepts
+│ ├── 1.2. Types of Supply Chains
+│ └── 1.3. Key Supply Chain Processes
+├── 2. Third-Party Logistics (3PL) Overview
+│ ├── 2.1. Role of 3PL Providers
+│ ├── 2.2. Types of 3PL Services
+│ └── 2.3. 3PL Selection Criteria
+├── 3. Order Management
+│ ├── 3.1. Order Processing
+│ ├── 3.2. Order Tracking
+│ ├── 3.3. Returns Management
+│ └── 3.4. Billing & Invoicing
+├── 4. Inventory Management
+│ ├── 4.1. Inventory Control
+│ ├── 4.2. Stock Management
+│ ├── 4.3. Demand Forecasting
+│ └── 4.4. Safety Stock & Reorder Point Calculation
+├── 5. Warehouse Management
+│ ├── 5.1. Warehouse Layout & Design
+│ ├── 5.2. Storage Systems & Equipment
+│ ├── 5.3. Picking & Packing
+│ └── 5.4. Warehouse Management Systems (WMS)
+├── 6. Transportation Management
+│ ├── 6.1. Modes of Transportation
+│ ├── 6.2. Carrier Selection
+│ ├── 6.3. Routing & Scheduling
+│ └── 6.4. Transportation Management Systems (TMS)
+├── 7. Reverse Logistics
+│ ├── 7.1. Returns & Exchanges
+│ ├── 7.2. Repair & Refurbishment
+│ ├── 7.3. Recycling & Disposal
+│ └── 7.4. Reverse Logistics Strategies
+├── 8. Performance Metrics & KPIs
+│ ├── 8.1. Order Cycle Time
+│ ├── 8.2. Inventory Turnover
+│ ├── 8.3. Fill Rate
+│ └── 8.4. On-Time Delivery
+├── 9. Risk Management
+│ ├── 9.1. Supply Chain Risks
+│ ├── 9.2. Risk Assessment & Mitigation
+│ └── 9.3. Supply Chain Resilience
+└── 10. Technology & Trends
+├── 10.1. Integration with ERP Systems
+├── 10.2. Internet of Things (IoT) in Supply Chain
+├── 10.3. Artificial Intelligence & Machine Learning
+└── 10.4. Blockchain in Supply Chain

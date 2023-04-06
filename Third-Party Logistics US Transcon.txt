@@ -1,0 +1,45 @@
+third-party-logistics-roadmap-US-transcon
+├── 1. Understanding 3PL
+│ ├── 1.1. Definition & Benefits
+│ ├── 1.2. Types of 3PL Providers
+│ └── 1.3. 3PL vs. 4PL
+├── 2. Core Services
+│ ├── 2.1. Transportation Management
+│ │ ├── 2.1.1. Truckload (TL)
+│ │ ├── 2.1.2. Less Than Truckload (LTL)
+│ │ ├── 2.1.3. Intermodal
+│ │ └── 2.1.4. Expedited & Time-Critical
+│ ├── 2.2. Warehousing & Distribution
+│ ├── 2.3. Inventory Management
+│ └── 2.4. Order Fulfillment
+├── 3. Value-Added Services
+│ ├── 3.1. Packaging & Labeling
+│ ├── 3.2. Cross-Docking
+│ ├── 3.3. Reverse Logistics & Returns Management
+│ └── 3.4. Specialized Services (e.g., temperature-controlled, oversized)
+├── 4. Technology & Software
+│ ├── 4.1. Transportation Management System (TMS)
+│ ├── 4.2. Warehouse Management System (WMS)
+│ ├── 4.3. Inventory Management Software
+│ └── 4.4. Electronic Data Interchange (EDI) & APIs
+├── 5. US Transcon Regulatory Compliance
+│ ├── 5.1. Federal Motor Carrier Safety Administration (FMCSA) Regulations
+│ ├── 5.2. Hours of Service (HOS) Rules
+│ ├── 5.3. Electronic Logging Devices (ELDs)
+│ ├── 5.4. Hazardous Materials (HAZMAT) Regulations
+│ └── 5.5. Transportation Security Administration (TSA) Requirements
+├── 6. Key Performance Indicators (KPIs)
+│ ├── 6.1. On-Time Delivery
+│ ├── 6.2. Order Accuracy
+│ ├── 6.3. Inventory Turnover
+│ └── 6.4. Warehouse Utilization
+├── 7. Selecting a 3PL Provider
+│ ├── 7.1. Assessing Company Needs
+│ ├── 7.2. Evaluating 3PL Capabilities
+│ ├── 7.3. Request for Proposal (RFP) Process
+│ └── 7.4. Contract Negotiation & SLA (Service Level Agreement)
+└── 8. Managing 3PL Relationships
+├── 8.1. Communication & Collaboration
+├── 8.2. Performance Monitoring & Reporting
+├── 8.3. Continuous Improvement & Optimization
+└── 8.4. Risk Management & Contingency Planning
